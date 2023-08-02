@@ -1,1 +1,2 @@
 # Tic-Tac-Toe
+To start the game, you can run the Python script in your terminal or command prompt. The script will prompt you to enter your moves as text inputs. For example, if you want to place your symbol in the top-left square, you would enter “1,1” (without quotes). The first number represents the row number (1-3), and the second number represents the column number (1-3). The game will continue until one player wins or there is a tie. I hope this helps!
